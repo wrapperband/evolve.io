@@ -2,7 +2,7 @@
 evolution simulator written by Carykh  AKA Cary Huang
 
 
-From Youtube Evolv.io is now open source! (And I might stop developing Evolv.io) 
+From Youtube Evolv.io is now open source! 
 
 https://www.youtube.com/watch?v=OLnv8QaEDL0
 
