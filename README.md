@@ -22,6 +22,10 @@ Find Food 5 hours
 Wait while no food is available 5 hours
 Turn Right and left 100 hours
 Find "lines of food" 150 hours
+Deliberately target centre of food - 150 hours
+Move away from other creatures if food scarce - not found
+Move towards larger food when 2 are available.
+scan for food - not found
 Look behind them selves - not found
 
 DrWrapper
